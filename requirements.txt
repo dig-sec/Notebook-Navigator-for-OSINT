@@ -1,0 +1,49 @@
+# Jupyter notebook
+jupyter
+
+# Env file
+python-dotenv
+
+# Shodan
+shodan
+
+
+# Data analysis libraries
+numpy
+pandas
+scipy
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Geospatial libraries
+geopy
+folium
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Natural Language Processing
+nltk
+spacy
+
+# Elasticsearch
+elasticsearch
+
+# Mitre
+mitreattack-python
+
+# Git for python used to fetch data from github
+gitpython
+
+# Requests
+requests

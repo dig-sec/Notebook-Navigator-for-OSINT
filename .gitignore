@@ -1,0 +1,19 @@
+# Ignore the virtual environment
+.venv
+
+# Do not upload secrets
+.env
+
+# Do not synk files in data
+data/*
+
+# Ignore build files
+*.pyc
+__pycache__
+
+# Mitre attack data
+mitre/enterprise-attack.json
+
+# Ignore Sigma-Rules
+sigma-rules/*
+sigma-rules
